@@ -20,6 +20,7 @@ if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php'))
     require $maintenance;
 }
 echo 'test1';
+echo 'test2';
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
