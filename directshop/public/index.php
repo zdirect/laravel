@@ -21,7 +21,6 @@ if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php'))
 }
 echo 'test1';
 echo 'test2';
-echo 'test2';
 /*
 |--------------------------------------------------------------------------
 | Register The Auto Loader
